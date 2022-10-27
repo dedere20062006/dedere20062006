@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dedere20062006 pero mi nombre de pila es Sebastian
--👀 Estoy interesado en aprender nuevos lenguajes de programacion, actualmente me encuentro en mi primer mes de programacion ,Esto es gracias a una beca de Oraclepor medio de Alura Latam 
+-👀 Estoy interesado en aprender nuevos lenguajes de programacion, actualmente me encuentro en mi primer mes de programacion ,Esto es gracias a una beca de Oracle por medio de Alura Latam 
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
